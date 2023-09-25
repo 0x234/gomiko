@@ -2,7 +2,7 @@ package examples
 
 import (
 	"fmt"
-	"github.com/Ali-aqrabawi/gomiko/pkg"
+	"github.com/0x234/gomiko/pkg"
 	"log"
 )
 

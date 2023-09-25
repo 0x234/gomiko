@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/Ali-aqrabawi/gomiko/pkg/connections"
+	"github.com/0x234/gomiko/pkg/connections"
 )
 
 type Driver struct {

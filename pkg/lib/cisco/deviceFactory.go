@@ -2,9 +2,9 @@ package cisco
 
 import (
 	"errors"
-	"github.com/Ali-aqrabawi/gomiko/pkg/connections"
-	"github.com/Ali-aqrabawi/gomiko/pkg/driver"
-	"github.com/Ali-aqrabawi/gomiko/pkg/types"
+	"github.com/0x234/gomiko/pkg/connections"
+	"github.com/0x234/gomiko/pkg/driver"
+	"github.com/0x234/gomiko/pkg/types"
 )
 
 func NewDevice(connection connections.Connection, DeviceType string) (types.CiscoDevice, error) {

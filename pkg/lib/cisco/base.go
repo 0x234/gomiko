@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/Ali-aqrabawi/gomiko/pkg/driver"
+	"github.com/0x234/gomiko/pkg/driver"
 )
 
 type CSCODevice struct {

@@ -1,7 +1,7 @@
 package mikrotik
 
 import (
-	"github.com/Ali-aqrabawi/gomiko/pkg/driver"
+	"github.com/0x234/gomiko/pkg/driver"
 )
 
 type MikroTikRouterOS struct {

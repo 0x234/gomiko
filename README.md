@@ -1,6 +1,6 @@
 # Gomiko
 [![Build Status](https://travis-ci.org/Ali-aqrabawi/gomiko.svg?branch=master)](https://travis-ci.org/Ali-aqrabawi/gomiko)
-[![GolangCI](https://golangci.com/badges/github.com/Ali-aqrabawi/gomiko.svg)](https://golangci.com)
+[![GolangCI](https://golangci.com/badges/github.com/0x234/gomiko.svg)](https://golangci.com)
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Ali-aqrabawi/gomiko)
 
 Gomiko is a `Go` implementation of [netmiko](https://github.com/ktbyers/netmiko). It serves as multi-vendor networking SDK that helps communicate and execute commands via an interactive `shell`
@@ -16,14 +16,14 @@ without needing to care about handling device prompts and terminal modes.
 * Juniper JunOS
 
 ## Installation
-get gomiko pkg: `go get -u github.com/Ali-aqrabawi/gomiko/pkg`.
+get gomiko pkg: `go get -u github.com/0x234/gomiko/pkg`.
 
 ## Examples :
 ```go
 import (
 	"fmt"
 	"log"
-	"github.com/Ali-aqrabawi/gomiko/pkg"
+	"github.com/0x234/gomiko/pkg"
 )
 
 func main() {
@@ -59,7 +59,7 @@ func main() {
 import (
 	"fmt"
 	"log"
-	"github.com/Ali-aqrabawi/gomiko/pkg"
+	"github.com/0x234/gomiko/pkg"
 )
 
 func main() {
@@ -78,7 +78,7 @@ func main() {
 import (
 	"fmt"
 	"log"
-	"github.com/Ali-aqrabawi/gomiko/pkg"
+	"github.com/0x234/gomiko/pkg"
 )
 
 func main() {

@@ -1,12 +1,12 @@
 package gomiko
 
 import (
-	"github.com/Ali-aqrabawi/gomiko/pkg/connections"
-	"github.com/Ali-aqrabawi/gomiko/pkg/lib/arista"
-	"github.com/Ali-aqrabawi/gomiko/pkg/lib/cisco"
-	"github.com/Ali-aqrabawi/gomiko/pkg/lib/juniper"
-	"github.com/Ali-aqrabawi/gomiko/pkg/lib/mikrotik"
-	"github.com/Ali-aqrabawi/gomiko/pkg/types"
+	"github.com/0x234/gomiko/pkg/connections"
+	"github.com/0x234/gomiko/pkg/lib/arista"
+	"github.com/0x234/gomiko/pkg/lib/cisco"
+	"github.com/0x234/gomiko/pkg/lib/juniper"
+	"github.com/0x234/gomiko/pkg/lib/mikrotik"
+	"github.com/0x234/gomiko/pkg/types"
 	"github.com/pkg/errors"
 	"strings"
 )
